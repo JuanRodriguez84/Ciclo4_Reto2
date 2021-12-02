@@ -1,0 +1,11 @@
+as\com\ciclo4\reto2\service\UserService.class
+as\com\ciclo4\reto2\service\AccesoryService.class
+as\com\ciclo4\reto2\repository\crud\AccessoryCrudRepository.class
+as\com\ciclo4\reto2\repository\UserRepository.class
+as\com\ciclo4\reto2\repository\crud\UserCrudRepository.class
+as\com\ciclo4\reto2\web\AccessoryController.class
+as\com\ciclo4\reto2\Application.class
+as\com\ciclo4\reto2\repository\AccessoryRepository.class
+as\com\ciclo4\reto2\model\User.class
+as\com\ciclo4\reto2\web\UserController.class
+as\com\ciclo4\reto2\model\Accessory.class
